@@ -1,0 +1,18 @@
+.cabecalho2{
+    align-items: center;
+    display: flex;
+}
+.cabecalho {
+    display: flex;
+    justify-content: left;
+    height: 2rem;
+}
+.pesquisa{
+    display: flex;
+    justify-content: center;
+}
+.botao{
+    border: solid 1px purple;
+    border-radius: 20px;
+    background-color: white;
+}
